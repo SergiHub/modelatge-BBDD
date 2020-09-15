@@ -1,0 +1,8 @@
+order-item_num,order-item_quantity,glasses_glasses_id,orders_header_orders-header_id,orders_header_order-date
+500,1,5,1,2020-01-08
+500,2,6,2,2020-05-31
+501,3,8,2,2020-05-31
+501,1,7,3,2020-07-23
+502,1,9,4,2020-08-03
+503,1,6,1,2020-01-08
+503,2,7,5,2020-09-10

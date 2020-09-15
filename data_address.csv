@@ -1,0 +1,4 @@
+address_id,address_country,address_city,address_postal_code,address_street,address_number,address_floor,address_door
+1,Spain,Barcelona,8005,C/Bilbao,10,3,1
+2,Portugal,Oporto,45673,"Praça do Mar",1,baixo,NULL
+3,Spain,"San Sebastián",76542,"Avenida del Pescador",231,4,5

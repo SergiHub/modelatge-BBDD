@@ -1,0 +1,6 @@
+glasses_id,glasses_left_lens_grad,glasses_right_lens_grad,glasses_frame_colour,glasses_price,brands_brands_id,glasses-frame_glasses-frame_id
+5,2,2,blue,200,5,1
+6,1,1,black,125,6,2
+7,0,0,yellow,90,7,1
+8,1,1,red,230,8,3
+9,0,0,orange,180,9,3

@@ -1,0 +1,4 @@
+supplier_id,supplier_name,supplier_NIF,supplier_telephone,supplier_fax,address_address_id
+3,"Gafas Gómez",A08249865,932009648,NULL,1
+4,"Óptica Muir",B67456251,675342568,NULL,2
+5,"Lentes Pilar",A08456726,934567890,934567892,3

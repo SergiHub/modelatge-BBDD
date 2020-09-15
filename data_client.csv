@@ -1,0 +1,4 @@
+client_id,client_name,client_telephone,cllient_email,client_reg-date,client_recommended,address_address_id
+3,"Juanjo Ruiz",934567896,juanorf@gmail.com,2020-03-10,NULL,1
+4,"Sergi Pagés",657890761,sergipages@gmail.com,2020-05-22,"Juanjo Ruiz",2
+5,"Maria Tarrés",934208900,tarresmama@gmail.com,2020-06-11,"Juanjo Ruiz",3
